@@ -3,8 +3,7 @@
  *  by Dejan Nedelkovski, www.HowToMechatronics.com
  *  
  */
-//testing
- 
+
  #define outputA 3
  #define outputB 4
  int counter = 0; 
