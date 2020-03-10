@@ -3,7 +3,8 @@
  *  by Dejan Nedelkovski, www.HowToMechatronics.com
  *  
  */
- 
+//testing github
+
  #define outputA 3
  #define outputB 4
  int counter = 0; 
@@ -13,6 +14,7 @@
    pinMode (outputA,INPUT);
    pinMode (outputB,INPUT);
    
+  
    Serial.begin (9600);
    // Reads the initial state of the outputA
    aLastState = digitalRead(outputA);   
