@@ -6,6 +6,8 @@
 #include <Adafruit_SSD1306.h>
 #include <EEPROM.h>
 
+//testing
+
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
